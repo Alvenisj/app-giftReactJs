@@ -5,7 +5,7 @@
 export const GidItem = ( {id, title, url }) => {
 
 
-console.log(id, title, url);
+// console.log(id, title, url);
 
 
   return (
