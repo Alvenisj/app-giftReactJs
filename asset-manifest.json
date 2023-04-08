@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-giftReactJs/static/css/main.ee3955c2.css",
+    "main.js": "/app-giftReactJs/static/js/main.d0a83219.js",
+    "index.html": "/app-giftReactJs/index.html",
+    "main.ee3955c2.css.map": "/app-giftReactJs/static/css/main.ee3955c2.css.map",
+    "main.d0a83219.js.map": "/app-giftReactJs/static/js/main.d0a83219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3955c2.css",
+    "static/js/main.d0a83219.js"
+  ]
+}
